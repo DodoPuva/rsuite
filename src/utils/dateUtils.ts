@@ -7,6 +7,7 @@ import getSeconds from 'date-fns/getSeconds';
 import addDays from 'date-fns/addDays';
 
 export { default as addDays } from 'date-fns/addDays';
+export { default as addYears } from 'date-fns/addYears';
 export { default as addMonths } from 'date-fns/addMonths';
 export { default as compareAsc } from 'date-fns/compareAsc';
 export { default as endOfDay } from 'date-fns/endOfDay';
